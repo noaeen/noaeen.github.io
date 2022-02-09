@@ -2,6 +2,7 @@
 title: "Real-time Decentralized Traffic Signal Control for Congested Urban Networks Considering Queue Spillbacks"
 collection: publications
 permalink: /publication/2021-TRC-Desra
+date: 2022-02-02
 venue: 'Transportation Research Part C: Emerging Technologies'
 paperurl: 'https://transportlab.sydney.edu.au/wp-content/uploads/2021/10/MN-RM-BF-MR-TRC2021.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004022?via%3Dihub'
