@@ -3,6 +3,32 @@ permalink: /research/
 title: "My Recent Research Projects"
 ---
 
+## HealthyPlan.City: A Web Tool to Support Urban Environmental Equity and Public Health in Canadian Communities
+<img src="/images/research/healthyplan.png" width="700">
+
+## Predicting Diabetes in Canadian Adults Using Machine Learning
+<img src="/images/research/diabetes.png" width="700">
+
+## Predicting Donor Selection and Multi-Organ Transplantation within Organ Procurement Organizations Using Machine Learning
+<img src="/images/research/donor.png" width="700">
+
+## Predicting Depression Among Canadians At-Risk or Living with Diabetes Using Machine Learning
+<img src="/images/research/depression.png" width="700">
+
+## Predicting Time to Diabetes Diagnosis Using Random Survival Forests
+<img src="/images/research/timetodiabetes1.png" width="400">
+<img src="/images/research/timetodiabetes2.png" width="400">
+
+## Identifying Prediabetes in Canadian Populations Using Machine Learning
+<img src="/images/research/prediabetes1.png" width="400">
+<img src="/images/research/prediabetes2.png" width="400">
+
+
+
+
+
+
+
 ## Perimeter Control Using Deep Reinforcement Learning: A Model-free Approach towards Homogeneous Flow Rate Optimization
 
 <img src="/images/research/perimeter1.png" width="400">
