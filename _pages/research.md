@@ -3,6 +3,39 @@ permalink: /research/
 title: "My Recent Research Projects"
 ---
 
+## Unlocking the power of EHRs: harnessing unstructured data for machine learning-based outcome predictions
+
+<img src="/images/research/TRC12.png" width="400">
+<img src="/images/research/TRC2.png" width="350">
+
+The integration of Electronic Health Records
+(EHRs) with Machine Learning (ML) models has become imperative in examining patient outcomes due to the vast amounts
+of clinical data they provide. However, critical information
+regarding social and behavioral factors that affect health, such
+as social isolation, stress, and mental health complexities, is
+often recorded in unstructured clinical notes, hindering its
+accessibility. This has resulted in an over-reliance on clinical
+data in current EHR-based research, potentially leading to
+disparities in health outcomes. This study aims to evaluate the
+impact of incorporating patient-specific context from unstructured EHR data on the accuracy and stability of ML algorithms
+for predicting mortality, using the MIMIC III database. Results
+from the study confirmed the significance of incorporating
+patient-specific information into prediction models, leading
+to a notable improvement in the discriminatory power and
+robustness of the ML algorithms. Furthermore, the findings
+underline the importance of considering non-clinical factors
+related to a patient’s daily life, in addition to clinical factors,
+when making predictions about patient outcomes. The advent
+of advanced generative models, such as GPT-4, presents new
+opportunities for effectively extracting social and behavioral
+factors from unstructured clinical notes, further enhancing
+the accuracy and stability of ML algorithms in predicting
+patient outcomes. The results of our study have significant
+ramifications for improving ML in clinical decision support
+and patient outcome predictions, specifically highlighting the
+potential role of generative models like GPT-4 in advancing
+ML-based outcome predictions.
+
 ## Real-time Decentralized Traffic Signal Control for Congested Urban Networks Considering Queue Spillbacks
 
 <img src="/images/research/TRC12.png" width="400">
