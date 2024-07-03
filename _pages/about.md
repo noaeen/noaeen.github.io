@@ -12,8 +12,8 @@ Welcome! I am currently a [Data Science Institute](https://datasciences.utoronto
 
 Previous positions:
 
-Postdoctoral Research Fellow -- Supervisor: Dr. Jeffrey Brook at [CANUE Lab](https://canue.ca/leadership-and-staff/) at [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/), University of Toronto
-Postdoctoral Research Fellow -- Supervisor: Dr. Julian de Freitas at [Ethical Intelligence Lab](https://www.juliandefreitas.com/) at [Harvard Business School](https://www.hbs.edu/Pages/default.aspx/)
+- Postdoctoral Research Fellow -- Supervisor: Dr. Jeffrey Brook at [CANUE Lab](https://canue.ca/leadership-and-staff/) at [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/), University of Toronto
+- Postdoctoral Research Fellow -- Supervisor: Dr. Julian de Freitas at [Ethical Intelligence Lab](https://www.juliandefreitas.com/) at [Harvard Business School](https://www.hbs.edu/Pages/default.aspx/)
 - Postdoctoral Research Fellow -- Supervisors: Dr. Baher Abdulhai and Dr. Scott Sanner in the Civil and Mineral Engineering Department, University of Toronto
 - PhD in Software Engineering -- Supervisors: Dr. Behrouz H. Far, Dr. Mohsen Ramezani - University of Calgary
 - MSc in Transportation Engineering -- Supervisor: Dr. AmirAbbas Rassafi - Iran
