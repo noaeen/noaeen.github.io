@@ -1,11 +1,9 @@
 ---
-title: "Reinforcement Learning in Urban Network Traffic Signal Control: A Systematic Literature Review"
+title: "HealthyPlan.City: A Web Tool to Support Urban Environmental Equity and Public Health in Canadian Communities"
 collection: publications
-permalink: /publication/2021-ESWA-RLNTSC
-date: 2022-02-01
-venue: 'Expert Systems with Applications'
-paperurl: 'https://files.osf.io/v1/resources/ewxrj/providers/osfstorage/607684c2f6585f05f4611703?action=download&direct&version=2'
-link: 'https://engrxiv.org/preprint/view/1611/3320'
-citation: 'Mohammad Noaeen, A. Naik, 
-L. Goodman, et al (2021). Reinforcement Learning in Urban Network Traffic Signal Control: A Systematic Literature Review. In press in <i>Expert Systems with Applications.</i>'
+permalink: /publication/2021-JUH-HealthyPlan
+date: 2024-02-01
+venue: '2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)'
+link: 'https://link.springer.com/article/10.1007/s11524-024-00855-x'
+citation: 'D. Doiron, E. M. Setton, J. Syer, A. Redivo, A. McKee, Mohammad Noaeen et al. (2024) HealthyPlan.City: A Web Tool to Support Urban Environmental Equity and Public Health in Canadian Communities. <i>Journal of Urban Health,</i> pp. 1-11.'
 ---

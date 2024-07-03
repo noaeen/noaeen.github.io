@@ -1,11 +1,9 @@
 ---
-title: "Reinforcement Learning in Urban Network Traffic Signal Control: A Systematic Literature Review"
+title: "Predicting Diabetes in Canadian Adults Using Machine Learning"
 collection: publications
-permalink: /publication/2021-ESWA-RLNTSC
-date: 2022-02-01
-venue: 'Expert Systems with Applications'
-paperurl: 'https://files.osf.io/v1/resources/ewxrj/providers/osfstorage/607684c2f6585f05f4611703?action=download&direct&version=2'
-link: 'https://engrxiv.org/preprint/view/1611/3320'
-citation: 'Mohammad Noaeen, A. Naik, 
-L. Goodman, et al (2021). Reinforcement Learning in Urban Network Traffic Signal Control: A Systematic Literature Review. In press in <i>Expert Systems with Applications.</i>'
+permalink: /publication/2024-EMBC-Diabetes
+date: 2024-07-24
+venue: '2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
+link: 'https://www.medrxiv.org/content/10.1101/2024.02.03.24302302v1.full-text'
+citation: 'K. Esser, M. Duong, K. Kain, S. Tran, A. Sadeghi, A. Guergachi, K. Keshavjee, Mohammad Noaeen, and Z. Shakeri. Predicting Diabetes in Canadian Adults Using Machine Learning. <i>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i>.'
 ---
