@@ -6,23 +6,136 @@ title: "My Recent Research Projects"
 ## HealthyPlan.City: A Web Tool to Support Urban Environmental Equity and Public Health in Canadian Communities
 <img src="/images/research/healthyplan.png" width="700">
 
+Urban environmental factors such as air quality, heat islands, and access to greenspaces and community amenities impact public health. Some vulnerable populations such as low-income groups, children, older adults, new immigrants, and visible minorities live in areas with fewer beneficial conditions, and therefore, face greater health risks. Planning and advocating for equitable healthy urban environments requires systematic analysis of reliable spatial data to identify where vulnerable populations intersect with positive or negative urban/environmental characteristics. To facilitate this effort in Canada, we developed HealthyPlan.City (https://healthyplan.city/), a freely available web mapping platform for users to visualize the spatial patterns of built environment indicators, vulnerable populations, and environmental inequity within over 125 Canadian cities. This tool helps users identify areas within Canadian cities where relatively higher proportions of vulnerable populations experience lower than average levels of beneficial environmental conditions, which we refer to as Equity priority areas. Using nationally standardized environmental data from satellite imagery and other large geospatial databases and demographic data from the Canadian Census, HealthyPlan.City provides a block-by-block snapshot of environmental inequities in Canadian cities. The tool aims to support urban planners, public health professionals, policy makers, and community organizers to identify neighborhoods where targeted investments and improvements to the local environment would simultaneously help communities address environmental inequities, promote public health, and adapt to climate change. In this paper, we report on the key considerations that informed our approach to developing this tool and describe the current web-based application.
+
 ## Predicting Diabetes in Canadian Adults Using Machine Learning
 <img src="/images/research/diabetes.png" width="700">
+
+Rising diabetes rates have led to increased healthcare costs and health complications. An estimated half of
+diabetes cases remain undiagnosed. Early and accurate diagnosis is crucial to mitigate disease progression and associated
+risks. This study addresses the challenge of predicting diabetes prevalence in Canadian adults by employing machine
+learning (ML) techniques to primary care data. We leveraged
+the Canadian Primary Care Sentinel Surveillance Network
+(CPCSSN), Canada’s premier multi-disease electronic medical
+record surveillance system, and developed and tuned seven
+ML classification models to predict the likelihood of diabetes.
+The models were tested and validated, focusing on clinical
+patient characteristics influential in predicting diabetes. We
+found XGBoost performed best out of all the models, with
+an AUC of 92%. The most important features contributing
+to model prediction were HbA1c, LDL, and hypertension
+medication. Our research aims to aid healthcare professionals in
+early diagnosis and to identify key characteristics for targeted
+interventions. This study contributes to an understanding of
+how ML can enhance public health planning and reduce
+healthcare system burdens.
 
 ## Predicting Donor Selection and Multi-Organ Transplantation within Organ Procurement Organizations Using Machine Learning
 <img src="/images/research/donor.png" width="700">
 
+Organ procurement organizations (OPOs) play a
+crucial role in the field of organ transplantation, serving as
+key intermediaries in the process of organ donation. However,
+despite their vital function, there exists a pressing issue of transparency within the organ allocation process. This opacity not
+only impedes the overall effectiveness of OPOs but also raises
+ethical and societal concerns regarding organ distribution. This
+study utilizes the recently published ORCHID dataset, containing 133,101 records of organ donor referrals, to understand
+organ procurement and donor selection strategies in OPOs
+using machine learning (ML). We developed seven ML classification models to predict donor selection and the likelihood
+of at least four organs being suitable for transplantation, in line
+with established definitions of multi-organ transplantation. The
+models demonstrated variable recall values for donor selection,
+ranging between 0.62 and 0.80, while achieving consistently
+high performance across other evaluation metrics, notably
+with AUC values exceeding 0.95. Particularly in the context
+of multi-organ transplant predictions, the models exhibited
+remarkable effectiveness, with recall values spanning from 0.88
+to 0.98 and AUC metrics consistently above 0.97. Administrative
+milestones and particular organ transplants were identified
+as key determinants in the organ allocation process. This
+study’s findings suggest significant opportunities to improve
+organ allocation strategies by focusing on the optimization of
+administrative practices, highlighting their substantial impact
+on transplantation success rates.
+
 ## Predicting Depression Among Canadians At-Risk or Living with Diabetes Using Machine Learning
 <img src="/images/research/depression.png" width="700">
 
+Depression is disproportionately prevalent among
+individuals with diabetes compared to the general populace,
+underscoring the critical need for predictive mechanisms that
+can facilitate timely interventions and support. This study
+explores the use of machine learning to forecast depression
+in those at risk or diagnosed with diabetes, leveraging the
+extensive primary care data from the Canadian Primary Care
+Sentinel Surveillance Network. Six machine learning models including Logistic Regression, Random Forest, AdaBoost,
+XGBoost, Naive Bayes, and Artificial Neural Networks were
+trained and evaluated on their ability to predict depression.
+XGBoost emerged as the most effective model with an AUC of
+0.70 on the test data. Sex, age, osteoarthritis, A1c levels, and
+body mass index emerged as the key contributors to the bestperforming model’s predictive ability. While the study navigated
+through the constraints of limited demographic information
+and potential label bias, it lays a foundational premise for
+subsequent longitudinal studies aimed at refining depression
+prediction within this specific clinical cohort.
+
 ## Predicting Time to Diabetes Diagnosis Using Random Survival Forests
-<img src="/images/research/timetodiabetes1.png" width="400">
-<img src="/images/research/timetodiabetes2.png" width="400">
+<img src="/images/research/timetodiabetes1.png" width="350">
+<img src="/images/research/timetodiabetes2.png" width="350">
 
+Type 2 Diabetes Mellitus (T2DM) is a chronic
+metabolic disorder with increasing population incidence.
+However, T2DM takes years to develop, allowing onset
+prediction and prevention to be a clinically effective treatment
+strategy. In this study we propose and assess a novel approach
+to diabetes prediction which integrates a specialized extension
+of the random forest algorithm known as random survival
+forest (RSF). Rather than predicting a binary outcome,
+this machine learning model incorporates survival analysis
+methodology to predict the time until a patient will receive a
+diabetes diagnosis if their current lifestyle is maintained. We
+trained a baseline model on 7,704 electronic medical records
+from the Canadian Primary Care Sentinel Surveillance
+Network (CPCSSN) with 14 biomarker and comorbidity
+features across different measurement dates. Although tuning
+parameters were purposefully chosen for quick training
+rather than for predictive performance, our model exceeded
+expectations with a concordance index of 0.84. Thus, RSF
+models have been shown to produce accurate timelines of
+diabetes onset trajectory, providing patients with quantifiable
+and relatable risks that are easy to understand. The results of
+our study have substantial implications for advancing machine
+learning in clinical decision support and patient outcome
+predictions, emphasizing the role of innovative models in
+improving predictive accuracy.
 ## Identifying Prediabetes in Canadian Populations Using Machine Learning
-<img src="/images/research/prediabetes1.png" width="400">
-<img src="/images/research/prediabetes2.png" width="400">
+<img src="/images/research/prediabetes1.png" width="350">
+<img src="/images/research/prediabetes2.png" width="350">
 
+— Prediabetes is a critical health condition characterized by elevated blood glucose levels that fall below the
+threshold for Type 2 diabetes (T2D) diagnosis. Accurate identification of prediabetes is essential to forestall the progression to
+T2D among at-risk individuals. This study aims to pinpoint the
+most effective machine learning (ML) model for prediabetes
+prediction and to elucidate the key biological variables critical for distinguishing individuals with prediabetes. Utilizing
+data from the Canadian Primary Care Sentinel Surveillance
+Network (CPCSSN), our analysis included 6,414 participants
+identified as either nondiabetic or prediabetic. A rigorous
+selection process led to the identification of ten variables for the
+study, informed by literature review, data completeness, and the
+evaluation of collinearity. Our comparative analysis of seven
+ML models revealed that the Deep Neural Network (DNN),
+enhanced with early stop regularization, outshined others by
+achieving a recall rate of 60%. This model’s performance
+underscores its potential in effectively identifying prediabetic
+individuals, showcasing the strategic integration of ML in
+healthcare. While the model reflects a significant advancement
+in prediabetes prediction, it also opens avenues for further
+research to refine prediction accuracy, possibly by integrating
+novel biological markers or exploring alternative modeling
+techniques. The results of our work represent a pivotal step
+forward in the early detection of prediabetes, contributing
+significantly to preventive healthcare measures and the broader
+fight against the global epidemic of Type 2 diabetes.
 
 
 
