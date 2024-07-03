@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Data Science Institute](https://datasciences.utoronto.ca/) Postdoctoral Research Fellow under the supervision of [Dr. Karim Keshavjee](https://ihpme.utoronto.ca/faculty/karim-keshavjee/) at the [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/) at the University of Toronto.
+Welcome! I am currently a [Data Science Institute](https://datasciences.utoronto.ca/) Postdoctoral Research Fellow under the supervision of [Dr. Karim Keshavjee](https://ihpme.utoronto.ca/faculty/karim-keshavjee/) at the [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/), University of Toronto.
 
 Previous positions:
 
-- Postdoctoral Research Fellow -- Supervisor: Dr. Jeffrey Brook at [CANUE Lab](https://canue.ca/leadership-and-staff/) at [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/) at the University of Toronto
+- Postdoctoral Research Fellow -- Supervisor: Dr. Jeffrey Brook at [CANUE Lab](https://canue.ca/leadership-and-staff/) at [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/), University of Toronto
 
 - Postdoctoral Research Fellow -- Supervisor: Dr. Julian de Freitas at [Ethical Intelligence Lab](https://www.juliandefreitas.com/) at [Harvard Business School](https://www.hbs.edu/Pages/default.aspx/)
 
-- Postdoctoral Research Fellow -- Supervisor: Dr. Baher Abdulhai and Dr. Scott Sanner in the Civil and Mineral Engineering Department at the University of Toronto
+- Postdoctoral Research Fellow -- Supervisors: Dr. Baher Abdulhai and Dr. Scott Sanner in the Civil and Mineral Engineering Department, University of Toronto
 
-- PhD in Software Engineering: University of Calgary, Canada
+- PhD in Software Engineering -- Supervisors: Dr. Behrouz H. Far, Dr. Mohsen Ramezani - University of Calgary
 
-- MSc in Transportation Engineering: Iran
+- MSc in Transportation Engineering -- Supervisor: Dr. AmirAbbas Rassafi - Iran
 
-- BSc in Civil Engineering: Iran
+- BSc in Civil Engineering - Iran
 
 My research centers on public health, environmental health, and intelligent transportation systems.
 
