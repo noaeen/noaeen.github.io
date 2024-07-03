@@ -5,8 +5,8 @@ title: "My Recent Research Projects"
 
 ## Perimeter Control Using Deep Reinforcement Learning: A Model-free Approach towards Homogeneous Flow Rate Optimization
 
-<img src="/images/research/perimeter1.png" width="350">
-<img src="/images/research/perimeter2.png" width="350">
+<img src="/images/research/perimeter1.png" width="400">
+<img src="/images/research/perimeter2.png" width="300">
 
 Perimeter control maintains high traffic efficiency within protected regions by controlling transfer flows among regions to ensure that their traffic densities are below critical values. Existing approaches can be categorized as either model- based or model-free, depending on whether they rely on network transmission models (NTMs) and macroscopic funda- mental diagrams (MFDs). Although model-based approaches are more data efficient and have performance guarantees, they are inherently prone to model bias and inaccuracy. For example, NTMs often become imprecise for a large number of protected regions, and MFDs can exhibit scatter and hysteresis that are not captured in existing model-based works. Moreover, no existing studies have employed reinforcement learning for homogeneous flow rate optimization in microscopic simula- tion, where spatial characteristics, vehicle-level information, and metering realizations — often overlooked in macroscopic simulations — are taken into account. To circumvent issues of model-based approaches and macroscopic simulation, we explore a model-free deep reinforcement learning approach that optimizes the flow rate homogeneously at the perimeter at the microscopic level. Additionally, we investigate different arrangements of the agent’s state space to assess the importance of different state variables. Results demonstrate that the model- free reinforcement learning approach without any knowledge of NTMs or MFDs can compete and match the performance of a model-based approach, and exhibits enhanced generalizability and scalability.
 
