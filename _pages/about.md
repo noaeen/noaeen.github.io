@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Data Science Institute] (https://datasciences.utoronto.ca/) Postdoctoral Research Fellow under the supervision of Dr. Karim Keshavjee (https://ihpme.utoronto.ca/faculty/karim-keshavjee/) at the Institute of Health Policy, Management and Evaluation (https://ihpme.utoronto.ca/) at the University of Toronto.
+Welcome! I am currently a [Data Science Institute](https://datasciences.utoronto.ca/) Postdoctoral Research Fellow under the supervision of [Dr. Karim Keshavjee](https://ihpme.utoronto.ca/faculty/karim-keshavjee/) at the [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/) at the University of Toronto.
 
 Previous positions:
 
