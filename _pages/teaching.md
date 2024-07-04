@@ -3,11 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
->I taught the computing for engineers course at the University of Calgary in Fall 2019, where my work was recognized by the [University of Calgary GSA Excellence in Teaching Award] in April 2020. I also served as a teaching assistant for courses in software, electrical, and civil engineering.
+<!-- >I taught the computing for engineers course at the University of Calgary in Fall 2019, where my work was recognized by the [University of Calgary GSA Excellence in Teaching Award] in April 2020. I also served as a teaching assistant for courses in software, electrical, and civil engineering.
 >
->
-
-
+> -->
 
 
 
@@ -17,7 +15,7 @@ title: "Teaching"
 
 
 
-## [Teaching Assistanct]: Department of Electrical and Software Engineering, University of Calgary
+## [Teaching Assistant]: Department of Electrical and Software Engineering, University of Calgary
 - ENGG 233 Computing for Engineers (Fall 2014, 2016, 2020)
 - SENG 637 Dependability and Reliability of Software Systems (Summer 2019, 2020)
 - ENEL 645 Data Mining and Knowledge Discovery  (Spring 2019)
