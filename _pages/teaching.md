@@ -9,6 +9,7 @@ title: "Teaching"
 
 
 
+
 ## [Instructor]: Department of Electrical and Software Engineering, University of Calgary
 - ENGG 225 Fundamentals of Electrical Circuits and Machines (Winter 2020)
 - ENGG 233 Computing For Engineers (Fall 2019)
