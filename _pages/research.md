@@ -152,7 +152,7 @@ Perimeter control maintains high traffic efficiency within protected regions by 
 
 ## Unlocking the power of EHRs: harnessing unstructured data for machine learning-based outcome predictions
 
-<img src="/images/research/Unlocking.png" width="500">
+<img src="/images/research/Unlocking.png" width="700">
 
 The integration of Electronic Health Records
 (EHRs) with Machine Learning (ML) models has become imperative in examining patient outcomes due to the vast amounts
